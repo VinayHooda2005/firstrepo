@@ -1,4 +1,4 @@
-'''fruits = ["apple", "banana", "orange"] # append ,insert
+fruits = ["apple", "banana", "orange"] # append ,insert
 
 fruits.append("mango") 
 print(fruits)
@@ -22,7 +22,7 @@ fruits.sort()
 print(fruits)
 
 fruits.reverse()
-print(fruits)'''
+print(fruits)
 
 print("python"[::-1])
 
