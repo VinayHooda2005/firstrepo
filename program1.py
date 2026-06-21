@@ -10,6 +10,6 @@ print(type(age))
 
 
 name=("vinay")
-age=str(21)
-print("age="+age)
-print(name + " is " + age + " years old.")
+age=str(21)  
+print("age=" +age)
+print(name + " is " +age + " years old.") 
