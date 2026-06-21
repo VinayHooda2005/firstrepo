@@ -27,11 +27,11 @@ b=int(input("enter value b="))
 
 #print("largest number is :", max(a,b))
   
-
 if a>=b:
     print("a is large")
 else:
     print("b is large")
+
 
 #largest three number
 a=int(input("enter value a="))
@@ -39,7 +39,6 @@ b=int(input("enter value b="))
 c=int(input("enter value c="))
 
 #print("largest number is :", max(a,b,c))
-
 if a>=b and a>=c :
     print("value a is largest")
 elif b>=a and  b>=c:
