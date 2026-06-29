@@ -37,3 +37,6 @@ def square(a):
     sqr=a*a
     print(sqr)
 square(9)
+
+
+ 
