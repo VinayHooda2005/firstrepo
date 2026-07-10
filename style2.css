@@ -1,0 +1,25 @@
+p {
+    text-align: right;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: red wavy underline;
+}
+
+h2 {
+    text-decoration: green dotted underline;
+}
+
+#a {
+    font-weight: lighter;
+}
+
+#b {
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+}
