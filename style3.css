@@ -1,0 +1,14 @@
+#one {
+    font-family: 'Times New Roman';
+    line-height: 20px;
+    text-transform: lowercase;
+}
+
+#two {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
+
+p {
+    text-transform: capitalize;
+}
