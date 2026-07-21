@@ -69,8 +69,8 @@ km=12
 m=km*1000
 print("in ",km,"km there are",m,"m")
 
-num=12
-f=(1.8*num)+32
+c=12
+f=(1.8*c)+32
 print("fahrenheit=",f)
 
 unit=12
