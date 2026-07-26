@@ -1,0 +1,49 @@
+* {
+    font-family: 'Times New Roman';
+}
+
+h1 {
+    text-align: center;
+}
+
+.a {
+    text-transform: none;
+    font-family: 'Times New Roman';
+}
+
+#outer {
+    font-size: 25px;
+    width: 50px;
+}
+
+#inner {
+    font-size: 10px;
+    position: relative;
+}
+
+button {
+    color: blue;
+    background: red;
+    border-width: 5px;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-color: green;
+    border-style: dotted;
+    border-width: 5px;
+}
+
+#middle {
+    border: 5px blue solid;
+    text-align: center;
+    border-radius: 25px;
+    height: 80px;
+    width: 80px;
+}
+
+#bottom {
+    background-color: blue;
+    border: 15px;
+    border-color: brown;
+    border: solid;
+    padding-left: 20px;
+}
