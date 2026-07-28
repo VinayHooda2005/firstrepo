@@ -1,0 +1,45 @@
+#one {
+    height: 190px;
+    width: 50px;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    background-color: black;
+    padding: 30px;
+
+}
+
+#two {
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    background-color: red;
+
+}
+
+#three {
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#four {
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    background-color: green;
+}
+
+#five {
+    height: 100px;
+    width: 10px;
+    border: 5px;
+    border-style: solid;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-color: blue;
+    background-color: black;
+}
