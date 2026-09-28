@@ -1,14 +1,15 @@
-# basic probability 
+#  Basic Probability in python 
 
-favorable_outcomes = 3
-total_outcomes = 10   
+favourable = 3
+total = 6
 
-probability = favorable_outcomes / total_outcomes
-print("Probability:", probability)  
-print("Probability in percentage:", probability * 100, "%")
+probability = favourable / total
+
+print("Probability:", probability)
+print("Percentage:", probability * 100)
 
 
-# Experimental Probability using simulation
+# Experimental probability using simulation
 
 import random
 
@@ -25,3 +26,17 @@ probability = heads / total
 
 print("Heads:", heads)
 print("Experimental Probability:", probability)
+
+
+# Probability with Numpy
+
+import numpy as np
+
+data = np.array([1, 2, 3, 4, 5, 6])
+
+even = np.sum(data % 2 == 0)
+total = len(data)
+
+probability = even / total
+
+print("Probability of even number:", probability)
